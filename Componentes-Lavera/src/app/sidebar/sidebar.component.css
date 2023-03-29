@@ -1,0 +1,7 @@
+aside {
+    background-color: green;
+    color: white;
+    width: var(--sidebar-width);
+    height: calc(100vh - var(--toolbar-height));
+    position: fixed;
+}

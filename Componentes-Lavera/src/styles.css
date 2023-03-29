@@ -1,0 +1,10 @@
+* { 
+    margin:0;
+    font-family: Roboto;
+    box-sizing: border-box;
+}
+
+:root {
+    --toolbar-height: 64px;
+    --sidebar-width: 230px;
+}

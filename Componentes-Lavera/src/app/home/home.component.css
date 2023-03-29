@@ -1,0 +1,5 @@
+mainpage {
+    background-color: brown;
+    color: antiquewhite;
+    height: var(--toolbar-height);
+}
